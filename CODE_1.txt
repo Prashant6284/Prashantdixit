@@ -3,6 +3,6 @@ void main()
 {
 
 printf("DR prashant dixit");
-printf(" Dr Poonam Tanwar");
+printf(" Dr Birbal Tanwar");
 
 }
